@@ -26,15 +26,15 @@
 
 ### PartyMatch — 共享訂閱媒合平台
 
-[![CI](https://github.com/s1092055/PartyMatch/actions/workflows/ci.yml/badge.svg)](https://github.com/s1092055/PartyMatch/actions/workflows/ci.yml)
+[![CI](https://github.com/AndyChia0309/PartyMatch/actions/workflows/ci.yml/badge.svg)](https://github.com/AndyChia0309/PartyMatch/actions/workflows/ci.yml)
 
 協助使用者找到願意一起分攤 Netflix、Spotify 等熱門訂閱服務的夥伴。整合找尋夥伴、申請審核、PM 幣代管交易、服務啟用與確認、續訂等完整流程，取代過往仰賴社群私訊與人工轉帳對帳的做法。
 
-**[🔗 GitHub Repo](https://github.com/s1092055/PartyMatch)** ・ **[🌐 線上 Demo](https://partymatch.ykk910309.workers.dev)**
+**[🔗 GitHub Repo](https://github.com/AndyChia0309/PartyMatch)** ・ **[🌐 線上 Demo](https://partymatch.ykk910309.workers.dev)**
 
 | 首頁 | 探索群組 | 群組管理 | 訊息中心 |
 |---|---|---|---|
-| ![首頁](https://raw.githubusercontent.com/s1092055/PartyMatch/dev/docs/images/screenshot-home.jpg) | ![探索群組](https://raw.githubusercontent.com/s1092055/PartyMatch/dev/docs/images/screenshot-explore.jpg) | ![群組管理](https://raw.githubusercontent.com/s1092055/PartyMatch/dev/docs/images/screenshot-manage-groups.jpg) | ![訊息中心](https://raw.githubusercontent.com/s1092055/PartyMatch/dev/docs/images/screenshot-messages.jpg) |
+| ![首頁](https://raw.githubusercontent.com/AndyChia0309/PartyMatch/dev/docs/images/screenshot-home.jpg) | ![探索群組](https://raw.githubusercontent.com/AndyChia0309/PartyMatch/dev/docs/images/screenshot-explore.jpg) | ![群組管理](https://raw.githubusercontent.com/AndyChia0309/PartyMatch/dev/docs/images/screenshot-manage-groups.jpg) | ![訊息中心](https://raw.githubusercontent.com/AndyChia0309/PartyMatch/dev/docs/images/screenshot-messages.jpg) |
 
 **技術棧**：React 19、Vite、React Router v7、Zustand、Tailwind CSS v4　·　Node.js、Express、Prisma、MySQL、Redis　·　Cloudflare（Workers／R2）、Render
 
@@ -50,4 +50,4 @@
 ## 📫 聯絡我
 
 - ✉️ Email：andychia0309@gmail.com
-- 💻 GitHub：[@s1092055](https://github.com/s1092055)
+- 💻 GitHub：[@AndyChia0309](https://github.com/AndyChia0309)
