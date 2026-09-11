@@ -47,7 +47,7 @@
 
 <hr>
 
-## 📫 聯絡我
+## 聯絡方式
 
 - ✉️ Email：andychia0309@gmail.com
 - 💻 GitHub：[@AndyChia0309](https://github.com/AndyChia0309)
